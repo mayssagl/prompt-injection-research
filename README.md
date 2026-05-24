@@ -1,19 +1,21 @@
 # Prompt Injection Defense in LLM-Assisted Security Tools
 
-**Course:** Prompt Engineering — MedTech  
-**Author:** [Your Name] — [Your Student ID]  
+**Course:** Prompt Engineering - MedTech  
+**Author:** Mayssa Gloulou & Zeineb Megaadi (junior software engineering students at MedTech SMU)
 **Professor:** Abdeldjalil Labed  
 
 ---
 
 ## Research Overview
 
-This project empirically evaluates the effectiveness of 8 prompt 
+This project aims to evaluate the effectiveness of 8 prompt 
 design strategies against prompt injection attacks in simulated 
 LLM-assisted security tools.
 
+♦ I strongly invite you to check our research paper analyzing these experiments via this link: https://github.com/mayssagl/prompt-injection-research/blob/main/Risks-Of-Prompt-Injection-Research.pdf
+
 Three LLMs were tested:
-- Llama 3.3 70B (via Groq)
+- Llama 3.3 70B (via Groq
 - Gemma2 9B (via Groq)
 - Llama 3.1 8B (via Groq)
 
